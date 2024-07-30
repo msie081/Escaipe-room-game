@@ -1,5 +1,7 @@
 # SOFTENG 206 - EscAIpe Room
 
+Interactive game created in a group of 3 using Java, JavaDX and OpenAI for the game character interaction. 
+
 ## To setup OpenAI's API
 
 - add in the root of the project (i.e., the same level where `pom.xml` is located) a file named `apiproxy.config`
