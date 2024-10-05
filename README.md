@@ -1,6 +1,6 @@
 # SOFTENG 206 - EscAIpe Room
 
-Interactive game created in a group of 3 using Java, JavaDX and OpenAI for the game character interaction. 
+Interactive game created in a group of 3 using Java, JavaFX and OpenAI for the game character interaction. 
 
 ## To setup OpenAI's API
 
